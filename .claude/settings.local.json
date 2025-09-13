@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xcodebuild:*)",
+      "Read(/Users/vlad/Library/Developer/Xcode/DerivedData/PolaroidMaker-ctxbhnkunfqokkfonigkjezqqqsd/Build/Products/Debug/PolaroidMaker.app/Contents/**)",
+      "Bash(killall:*)",
+      "Bash(open:*)",
+      "Bash(\"/Users/vlad/Library/Developer/Xcode/DerivedData/PolaroidMaker-ctxbhnkunfqokkfonigkjezqqqsd/Build/Products/Debug/PolaroidMaker.app/Contents/MacOS/PolaroidMaker\")",
+      "Bash(/Users/vlad/Library/Developer/Xcode/DerivedData/PolaroidMaker-ctxbhnkunfqokkfonigkjezqqqsd/Build/Products/Debug/PolaroidMaker.app/Contents/MacOS/PolaroidMaker)",
+      "Bash(sed:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

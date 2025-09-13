@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>PolaroidMaker needs Photos access to read images and build polaroid exports.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>PolaroidMaker needs Photos access to read images and build polaroid exports.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Used to convert photo GPS into city/country for captions.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Used to convert photo GPS into city/country for captions.</string>
+</dict>
+</plist>
